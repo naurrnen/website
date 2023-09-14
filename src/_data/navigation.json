@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "text": "Welcome to Naurrnen",
+      "url": "/"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture/"
+    },
+    {
+      "text": "History",
+      "url": "/history/"
+    }
+  ]
+}

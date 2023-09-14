@@ -1,0 +1,23 @@
+body {
+    background-color: #1c1d26;
+    color: #ffffff;
+}
+
+h1#h1-banner {
+    font-family: "Oldenburg";
+    text-align: center;
+}
+
+div#header {
+    text-align: center;
+}
+
+img#pic-header {
+    width: 90%;
+}
+
+div#article-text {
+    padding: 30px;
+    font-family: "Oldenburg";
+    font-size: 18px;
+}

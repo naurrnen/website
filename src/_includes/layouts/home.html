@@ -1,0 +1,10 @@
+{% extends "layouts/base.html" %}
+{% block content %}
+    <h1 id="h1-banner">{{ title }}</h1>
+    <div id="header">
+      {{ banner_image | safe }}
+    </div>
+    <div id="article-text">
+      {{ content | safe }}
+    </div>
+{% endblock %}
